@@ -7,7 +7,7 @@
 
 const char color[8][30]=
 {
-    "\x1B[0m" , //normal
+    "\x1B[0m" , 
     "\x1B[32m", //green
     "\x1B[33m", //yellow
     "\x1B[34m", //blue
